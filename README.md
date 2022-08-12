@@ -1,12 +1,21 @@
 # Challenge_6
 
 
-# FinTech Repository
 
-## FinTech Repository
+Here is the Markdown syntax for this:
 
-### FinTech Repository
+# Project Title
+# Financial Planning Tool
 
-Welcome to my repository of FinTech projects. Please explore the codebase!
+## Technologies
+## Monte Carlo
+## Alpaca
 
-Homework Challenge Number 6
+### Contributors
+
+List the people who contributed to the project, as well as your contact information.
+### Anthony Stallworth - Contributor
+
+## License
+
+Copy Away
